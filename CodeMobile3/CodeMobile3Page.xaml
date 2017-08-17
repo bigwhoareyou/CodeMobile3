@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:CodeMobile3"
+    x:Class="CodeMobile3.CodeMobile3Page">
+    <ContentPage.Padding>
+        <OnPlatform
+            x:TypeArguments="Thickness"
+            iOS="10,20,10,10"
+            Android="10,0,10,10" />
+    </ContentPage.Padding>
+    <ScrollView>
+        <StackLayout
+            Orientation="Vertical">
+
+
+
+            <WebView
+                Source="https://www.google.co.th"
+                HeightRequest="300"/>
+
+
+            
+            <Label
+                x:Name="myLabel"
+                Text="Hello World"
+                BackgroundColor="#FFb25656"
+                LineBreakMode="MiddleTruncation"
+                HeightRequest="100"
+                WidthRequest="200"
+                HorizontalOptions="Fill"
+                VerticalOptions="Start"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                Opacity="1"
+                IsVisible="true"
+                IsEnabled="false"
+                FontSize="30"
+                TextColor="Black" />
+            <Entry
+                x:Name="myEntry"
+                Placeholder="Input text here"
+                PlaceholderColor="Silver"
+                Keyboard="Text"
+                IsPassword="false" />
+            <Button
+                x:Name="myButton"
+                Text="OK"
+                BackgroundColor="Silver" />
+            <Editor
+                BackgroundColor="Yellow"
+                HeightRequest="100" />
+            <DatePicker />
+            <TimePicker />
+            <Picker
+                x:Name="genderPicker"
+                Title="Choose Gender" />
+
+
+
+            <BoxView
+                HeightRequest="50"
+                Color="Red"/>
+
+            <Frame
+                Margin="20">
+                <Label
+                    Text="Hello World"/>
+            </Frame>
+
+
+
+
+            
+            <Label
+                x:Name="valueLabel"
+                Text="0" />
+            <Slider
+                x:Name="mySlider"
+                Maximum="10"
+                Minimum="0"
+                Value="5" />
+            <Stepper
+                x:Name="myStepper"
+                Maximum="10"
+                Minimum="0"
+                Increment="1"
+                Value="0" />
+            <Switch
+                IsToggled="true" />
+
+
+            <Entry Placeholder="Input text here"/>
+
+            <Image
+                Source="button"/>
+
+            <Button
+                Image="button"
+                HorizontalOptions="Center"
+                BackgroundColor="Transparent"/>
+        
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
