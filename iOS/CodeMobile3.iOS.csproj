@@ -125,6 +125,27 @@
     <BundleResource Include="Resources\button.png" />
     <BundleResource Include="Resources\button%402x.png" />
     <BundleResource Include="Resources\button%403x.png" />
+    <BundleResource Include="Resources\airdrop.png" />
+    <BundleResource Include="Resources\alarms.png" />
+    <BundleResource Include="Resources\albums.png" />
+    <BundleResource Include="Resources\anchor.png" />
+    <BundleResource Include="Resources\approximately.png" />
+    <BundleResource Include="Resources\airdrop%402x.png" />
+    <BundleResource Include="Resources\alarms%402x.png" />
+    <BundleResource Include="Resources\albums%402x.png" />
+    <BundleResource Include="Resources\anchor%402x.png" />
+    <BundleResource Include="Resources\approximately%402x.png" />
+    <BundleResource Include="Resources\airdrop%403x.png" />
+    <BundleResource Include="Resources\alarms%403x.png" />
+    <BundleResource Include="Resources\albums%403x.png" />
+    <BundleResource Include="Resources\anchor%403x.png" />
+    <BundleResource Include="Resources\approximately%403x.png" />
+    <BundleResource Include="Resources\woman.png" />
+    <BundleResource Include="Resources\world_times.png" />
+    <BundleResource Include="Resources\woman%402x.png" />
+    <BundleResource Include="Resources\world_times%402x.png" />
+    <BundleResource Include="Resources\woman%403x.png" />
+    <BundleResource Include="Resources\world_times%403x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.3.4.247\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.3.4.247\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets')" />

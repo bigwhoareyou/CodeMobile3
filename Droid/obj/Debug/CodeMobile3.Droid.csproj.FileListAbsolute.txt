@@ -45,3 +45,10 @@
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable-hdpi/button.png
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable-xhdpi/button.png
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable-xxhdpi/button.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/airdrop.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/alarms.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/albums.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/anchor.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/approximately.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/woman.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/world_times.png

@@ -9,8 +9,16 @@ namespace CodeMobile3
             InitializeComponent();
 
             var np = new NavigationPage(new NavPage1());
+            np.Title = "Page 4";
+            np.Icon = "anchor";
 
-            MainPage = np;
+            var tp = new TabbedPage();
+            tp.Children.Add(new MyPage1());
+            tp.Children.Add(new MyPage2());
+            tp.Children.Add(new MyPage3());
+            tp.Children.Add(np);
+
+            MainPage = tp;
         }
 
         protected override void OnStart()

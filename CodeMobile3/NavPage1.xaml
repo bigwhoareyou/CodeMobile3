@@ -6,6 +6,13 @@
     Title="Page 1"
     BackgroundColor="Red">
 
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            x:Name="newButton"
+            Text="New"
+            Icon="world_times"/>
+    </ContentPage.ToolbarItems>
+
     <StackLayout
         Orientation="Vertical"
         VerticalOptions="Center"

@@ -111,6 +111,13 @@
     <AndroidResource Include="Resources\drawable-hdpi\button.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\button.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\button.png" />
+    <AndroidResource Include="Resources\drawable\airdrop.png" />
+    <AndroidResource Include="Resources\drawable\alarms.png" />
+    <AndroidResource Include="Resources\drawable\albums.png" />
+    <AndroidResource Include="Resources\drawable\anchor.png" />
+    <AndroidResource Include="Resources\drawable\approximately.png" />
+    <AndroidResource Include="Resources\drawable\woman.png" />
+    <AndroidResource Include="Resources\drawable\world_times.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets')" />

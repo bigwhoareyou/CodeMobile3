@@ -12,11 +12,17 @@ namespace CodeMobile3
             InitializeComponent();
 
             nextButton.Clicked += NextButton_Clicked;
+            newButton.Clicked += NewButton_Clicked;
         }
 
         void NextButton_Clicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new NavPage2());
+        }
+
+        void NewButton_Clicked(object sender, EventArgs e)
+        {
+            DisplayAlert("Info", "New Button Click!", "OK");
         }
     }
 }
