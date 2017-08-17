@@ -52,3 +52,4 @@
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/approximately.png
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/woman.png
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/world_times.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/hamburger.png

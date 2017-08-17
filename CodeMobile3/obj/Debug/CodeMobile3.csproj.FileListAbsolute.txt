@@ -29,3 +29,4 @@
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MyPage1.xaml.g.cs
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MyPage2.xaml.g.cs
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MyPage3.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MenuPage.xaml.g.cs

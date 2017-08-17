@@ -80,3 +80,6 @@
 /Users/bond/Projects/vs/CodeMobile3/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/world_times@2x.png
 /Users/bond/Projects/vs/CodeMobile3/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/woman@3x.png
 /Users/bond/Projects/vs/CodeMobile3/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/world_times@3x.png
+/Users/bond/Projects/vs/CodeMobile3/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/hamburger.png
+/Users/bond/Projects/vs/CodeMobile3/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/hamburger@2x.png
+/Users/bond/Projects/vs/CodeMobile3/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/hamburger@3x.png

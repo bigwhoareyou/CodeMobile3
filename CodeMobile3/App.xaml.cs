@@ -16,9 +16,18 @@ namespace CodeMobile3
             tp.Children.Add(new MyPage1());
             tp.Children.Add(new MyPage2());
             tp.Children.Add(new MyPage3());
-            tp.Children.Add(np);
+            //tp.Children.Add(np);
 
-            MainPage = tp;
+            var cp = new CarouselPage();
+            cp.Children.Add(new MyPage1());
+            cp.Children.Add(new MyPage2());
+            cp.Children.Add(new MyPage3());
+
+            var mp = new MasterDetailPage();
+            mp.Master = new MenuPage();
+            mp.Detail = np;
+
+            MainPage = mp;
         }
 
         protected override void OnStart()

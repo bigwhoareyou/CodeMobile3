@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="CodeMobile3.MenuPage"
+    Title="Menu"
+    Icon="hamburger"
+    Padding="10,20,10,10">
+
+    <StackLayout
+        Orientation="Vertical">
+
+        <Button
+            x:Name="menuButton1"
+            Text="Menu 1"
+            BackgroundColor="Silver"/>
+
+        <Button
+            x:Name="menuButton2"
+            Text="Menu 2"
+            BackgroundColor="Silver"/>
+
+        <Button
+            x:Name="menuButton3"
+            Text="Menu 3"
+            BackgroundColor="Silver"/>
+
+        <Button
+            x:Name="menuButton4"
+            Text="Menu 4"
+            BackgroundColor="Silver"/>
+
+    </StackLayout>
+    
+</ContentPage>
