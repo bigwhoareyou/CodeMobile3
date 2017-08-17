@@ -20,3 +20,6 @@
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.StackPage.xaml.g.cs
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.GridPage.xaml.g.cs
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.AbsolutePage.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.Page1.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.Page2.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.Page3.xaml.g.cs

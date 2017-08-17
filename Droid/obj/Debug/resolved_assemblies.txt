@@ -22,9 +22,9 @@
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.Runtime.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.ComponentModel.Composition.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.Diagnostics.Tools.dll
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.Collections.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.Diagnostics.Debug.dll
-/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.Globalization.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/System.ComponentModel.dll

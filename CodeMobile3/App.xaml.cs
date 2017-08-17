@@ -8,7 +8,7 @@ namespace CodeMobile3
         {
             InitializeComponent();
 
-            MainPage = new AbsolutePage();
+            MainPage = new Page1();
         }
 
         protected override void OnStart()
