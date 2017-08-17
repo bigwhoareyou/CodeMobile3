@@ -22,7 +22,12 @@ namespace CodeMobile3.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
-            LoadApplication(new App());
+			var path = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+			path = System.IO.Path.Combine(path, "..", "databases");
+			if (!System.IO.Directory.Exists(path)) System.IO.Directory.CreateDirectory(path);
+			path = System.IO.Path.Combine(path, "mydb.db3");            		
+
+            LoadApplication(new App(path));
         }
     }
 }

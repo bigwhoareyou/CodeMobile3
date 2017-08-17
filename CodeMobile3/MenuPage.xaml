@@ -30,6 +30,21 @@
             Text="Menu 4"
             BackgroundColor="Silver"/>
 
+        <Button
+            x:Name="prefButton"
+            Text="Preference Settings"
+            BackgroundColor="Silver"/>
+
+        <Button
+            x:Name="signupButton"
+            Text="Signup"
+            BackgroundColor="Silver"/>
+
+        <Button
+            x:Name="customerListButton"
+            Text="Customer List"
+            BackgroundColor="Silver"/>
+
     </StackLayout>
     
 </ContentPage>

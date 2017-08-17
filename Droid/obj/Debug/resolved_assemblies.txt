@@ -1,6 +1,8 @@
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/CodeMobile3.Droid.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/CodeMobile3.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/Plugin.Settings.Abstractions.dll
+/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/Plugin.Settings.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll

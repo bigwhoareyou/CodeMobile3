@@ -53,3 +53,11 @@
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/woman.png
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/world_times.png
 /Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/res/drawable/hamburger.png
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.Abstractions.dll
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.dll
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.Abstractions.pdb
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.Abstractions.xml
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.pdb
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.xml
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.Abstractions.dll.mdb
+/Users/bond/Projects/vs/CodeMobile3/Droid/bin/Debug/Plugin.Settings.dll.mdb

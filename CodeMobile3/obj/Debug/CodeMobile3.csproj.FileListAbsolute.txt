@@ -30,3 +30,17 @@
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MyPage2.xaml.g.cs
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MyPage3.xaml.g.cs
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MenuPage.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Plugin.Settings.Abstractions.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Plugin.Settings.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Plugin.Settings.Abstractions.pdb
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Plugin.Settings.Abstractions.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Plugin.Settings.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.PreferencePage.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/SQLite-net.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/SQLitePCLRaw.core.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/SQLite-net.pdb
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/SQLite-net.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.SignupPage.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.CustomerListPage.xaml.g.cs

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="CodeMobile3.SignupPage"
+    xmlns:models="clr-namespace:CodeMobile3.Models"
+    Title="Signup"
+    Padding="20,5,20,20">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            x:Name="saveButton"
+            Text="Save"
+            Icon="save"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.BindingContext>
+        <models:Customer/>
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+
+        <StackLayout
+            Orientation="Vertical">
+
+            <Label
+                Text="Name"
+                FontSize="10"
+                TextColor="Blue"/>
+
+            <Entry
+                Text="{Binding Name}"
+                Placeholder="Name"/>
+
+            <Label
+                Text="Telephone"
+                FontSize="10"
+                TextColor="Blue"/>
+
+            <Entry
+                Text="{Binding Telephone}"
+                Placeholder="Telephone"
+                Keyboard="Telephone"/>
+
+            <Label
+                Text="Email"
+                FontSize="10"
+                TextColor="Blue"/>
+
+            <Entry
+                Text="{Binding Email}"
+                Placeholder="Email"
+                Keyboard="Email"/>
+
+            <Label
+                Text="Username"
+                FontSize="10"
+                TextColor="Blue"/>
+
+            <Entry
+                Text="{Binding Username}"
+                Placeholder="Username"/>
+
+            <Label
+                Text="Password"
+                FontSize="10"
+                TextColor="Blue"/>
+
+            <Entry
+                Text="{Binding Password}"
+                Placeholder="Password"
+                IsPassword="true"/>
+
+            <Label
+                Text="Image (URL)"
+                FontSize="10"
+                TextColor="Blue"/>
+
+            <Entry
+                Text="{Binding ImagePath}"
+                Placeholder="Image (URL)"/>
+
+        </StackLayout>
+
+    </ScrollView>
+    
+</ContentPage>

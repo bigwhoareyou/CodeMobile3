@@ -14,7 +14,12 @@ namespace CodeMobile3.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 
-            LoadApplication(new App());
+			var path = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            path = System.IO.Path.Combine(path, "..", "Library", "databases");
+            if (!System.IO.Directory.Exists(path)) System.IO.Directory.CreateDirectory(path);
+            path = System.IO.Path.Combine(path, "mydb.db3");
+
+			LoadApplication(new App(path));
 
             return base.FinishedLaunching(app, options);
         }

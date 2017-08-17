@@ -26,6 +26,20 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/Xam.Plugins.Settings.3.1.0-beta103/lib/Xamarin.iOS10/Plugin.Settings.Abstractions.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/Xam.Plugins.Settings.3.1.0-beta103/lib/Xamarin.iOS10/Plugin.Settings.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/sqlite-net-pcl.1.4.118/lib/netstandard1.1/SQLite-net.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.bundle_green.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.bundle_green.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.core.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.provider.sqlite3.ios_unified.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll \
+	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -317,6 +331,20 @@
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
 	/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/CodeMobile3.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/Xam.Plugins.Settings.3.1.0-beta103/lib/Xamarin.iOS10/Plugin.Settings.Abstractions.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/Xam.Plugins.Settings.3.1.0-beta103/lib/Xamarin.iOS10/Plugin.Settings.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/sqlite-net-pcl.1.4.118/lib/netstandard1.1/SQLite-net.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.bundle_green.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.bundle_green.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.core.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll \
+	-r \
+	/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.provider.sqlite3.ios_unified.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll \
 	-r \
 	/Users/bond/Projects/vs/CodeMobile3/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \

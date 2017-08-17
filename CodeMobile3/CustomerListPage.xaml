@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="CodeMobile3.CustomerListPage"
+    xmlns:viewmodels="clr-namespace:CodeMobile3.ViewModels"
+    Title="Customer List">
+
+    <ContentPage.BindingContext>
+        <viewmodels:CustomerListViewModel/>
+    </ContentPage.BindingContext>
+
+    <ListView
+        ItemsSource="{Binding Customers}">
+
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell
+                    Text="{Binding Name}"
+                    Detail="{Binding Email}"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+
+    </ListView>
+
+</ContentPage>

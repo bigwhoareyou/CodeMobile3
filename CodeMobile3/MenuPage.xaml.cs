@@ -15,6 +15,9 @@ namespace CodeMobile3
             menuButton2.Clicked += MenuButton_Clicked;
             menuButton3.Clicked += MenuButton_Clicked;
             menuButton4.Clicked += MenuButton_Clicked;
+            prefButton.Clicked += MenuButton_Clicked;
+            signupButton.Clicked += MenuButton_Clicked;
+            customerListButton.Clicked += MenuButton_Clicked;
         }
 
         void MenuButton_Clicked(object sender, EventArgs e)
@@ -51,8 +54,23 @@ namespace CodeMobile3
                 var np = new NavigationPage(new Page1());
                 mp.Detail = np;
 			}
+            else if (sender == prefButton)
+            {
+                var np = new NavigationPage(new PreferencePage());
+                mp.Detail = np;
+            }
+            else if (sender == signupButton)
+			{
+                var np = new NavigationPage(new SignupPage());
+				mp.Detail = np;
+			}
+            else if (sender == customerListButton)
+			{
+                var np = new NavigationPage(new CustomerListPage());
+				mp.Detail = np;
+			}
 
-            mp.IsPresented = false;
+			mp.IsPresented = false;
         }
 
     }

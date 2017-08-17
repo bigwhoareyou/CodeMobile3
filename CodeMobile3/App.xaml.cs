@@ -30,6 +30,11 @@ namespace CodeMobile3
             MainPage = mp;
         }
 
+        public App(string path) : this()
+        {
+            Helpers.Settings.Path = path;
+        }
+
         protected override void OnStart()
         {
             // Handle when your app starts

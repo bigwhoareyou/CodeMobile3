@@ -32,3 +32,10 @@
 /Users/bond/Projects/vs/CodeMobile3/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/Facades/System.Text.RegularExpressions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
+/Users/bond/Projects/vs/CodeMobile3/packages/sqlite-net-pcl.1.4.118/lib/netstandard1.1/SQLite-net.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/Facades/System.Collections.Concurrent.dll
+/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.core.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll
+/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.bundle_green.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
+/Users/bond/Projects/vs/CodeMobile3/packages/SQLitePCLRaw.provider.sqlite3.ios_unified.1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll
+/Users/bond/Projects/vs/CodeMobile3/packages/Xam.Plugins.Settings.3.1.0-beta103/lib/Xamarin.iOS10/Plugin.Settings.Abstractions.dll
+/Users/bond/Projects/vs/CodeMobile3/packages/Xam.Plugins.Settings.3.1.0-beta103/lib/Xamarin.iOS10/Plugin.Settings.dll
