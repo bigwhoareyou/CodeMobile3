@@ -48,6 +48,15 @@
     <EmbeddedResource Include="Page3.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="NavPage1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NavPage2.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NavPage3.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -74,6 +83,15 @@
     </Compile>
     <Compile Include="Page3.xaml.cs">
       <DependentUpon>Page3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NavPage1.xaml.cs">
+      <DependentUpon>NavPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NavPage2.xaml.cs">
+      <DependentUpon>NavPage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NavPage3.xaml.cs">
+      <DependentUpon>NavPage3.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

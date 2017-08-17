@@ -1,13 +1,5 @@
 ﻿<Properties StartupConfiguration="{58B88BBF-0BA1-4375-8A52-2E5097089AAF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodeMobile3/Page3.xaml">
-    <Files>
-      <File FileName="CodeMobile3/Page1.xaml.cs" Line="21" Column="10" />
-      <File FileName="CodeMobile3/Page2.xaml.cs" Line="23" Column="9" />
-      <File FileName="CodeMobile3/Page3.xaml.cs" Line="20" Column="10" />
-      <File FileName="CodeMobile3/Page2.xaml" Line="6" Column="27" />
-      <File FileName="CodeMobile3/Page3.xaml" Line="6" Column="26" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CodeMobile3.Droid PreferredExecutionTarget="Android.192.168.57.101:5555" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

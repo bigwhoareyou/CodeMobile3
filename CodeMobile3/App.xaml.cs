@@ -8,7 +8,9 @@ namespace CodeMobile3
         {
             InitializeComponent();
 
-            MainPage = new Page1();
+            var np = new NavigationPage(new NavPage1());
+
+            MainPage = np;
         }
 
         protected override void OnStart()
