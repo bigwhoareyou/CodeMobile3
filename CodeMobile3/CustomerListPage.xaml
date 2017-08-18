@@ -4,13 +4,71 @@
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
 	x:Class="CodeMobile3.CustomerListPage"
     xmlns:viewmodels="clr-namespace:CodeMobile3.ViewModels"
-    Title="Customer List">
+    Title="Customer List"
+    Padding="10"
+    BackgroundImage="wallpaper.jpg">
 
     <ContentPage.BindingContext>
         <viewmodels:CustomerListViewModel/>
     </ContentPage.BindingContext>
 
     <ListView
+        x:Name="customerList"
+        ItemsSource="{Binding Customers}"
+        IsPullToRefreshEnabled="true"
+        RowHeight="120"
+        SeparatorVisibility="None"
+        BackgroundColor="Transparent">
+
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>     
+                    <Frame 
+                        Margin="2,5,5,5"
+                        BackgroundColor="#A0FFFFFF">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="80"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <Image
+                                Source="{Binding ImagePath}"/>
+
+                            <StackLayout
+                                Orientation="Vertical"
+                                Padding="5,0,0,0"
+                                Grid.Column="1">
+
+                                <Label
+                                    Text="{Binding Name}"
+                                    TextColor="Blue"
+                                    FontAttributes="Bold"
+                                    FontSize="14"/>
+
+                                <Label
+                                    Text="{Binding Telephone,StringFormat='Tel: {0}'}"
+                                    FontSize="14"/>
+
+                                <Label
+                                    Text="{Binding Email,StringFormat='Email: {0}'}"
+                                    FontSize="14"/>
+
+                                <Label
+                                    Text="{Binding Username,StringFormat='Username: {0}'}"
+                                    FontSize="14"/>
+
+                            </StackLayout>
+                            
+                        </Grid>
+                    </Frame>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+
+    </ListView>
+
+    <!--<ListView
         x:Name="customerList"
         ItemsSource="{Binding Customers}"
         IsPullToRefreshEnabled="true">
@@ -23,7 +81,7 @@
             </DataTemplate>
         </ListView.ItemTemplate>
 
-    </ListView>
+    </ListView>-->
 
     <!--<ListView
         x:Name="customerList"

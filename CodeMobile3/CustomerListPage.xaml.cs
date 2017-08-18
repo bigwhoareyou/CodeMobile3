@@ -20,8 +20,8 @@ namespace CodeMobile3
         {
             var vm = BindingContext as CustomerListViewModel;
             customerList.IsRefreshing = true;
-            //await vm.GetData();
-            await vm.GetDataManual();
+            await vm.GetData();
+            //await vm.GetDataManual();
 			customerList.IsRefreshing = false;
         }
 
