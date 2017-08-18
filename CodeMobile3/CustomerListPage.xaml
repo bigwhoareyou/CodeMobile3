@@ -11,6 +11,7 @@
     </ContentPage.BindingContext>
 
     <ListView
+        x:Name="customerList"
         ItemsSource="{Binding Customers}">
 
         <ListView.ItemTemplate>
@@ -22,5 +23,25 @@
         </ListView.ItemTemplate>
 
     </ListView>
+
+    <!--<ListView
+        x:Name="customerList"
+        ItemsSource="{Binding Customers}">
+
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="{Binding Name}"/>
+                        <Picker 
+                            ItemsSource="{Binding BindingContext.Genders, Source={x:Reference customerList}}"
+                            ItemDisplayBinding="{Binding Name}"
+                            HorizontalOptions="FillAndExpand"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+
+    </ListView>-->
 
 </ContentPage>

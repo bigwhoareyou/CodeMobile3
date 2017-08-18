@@ -1,0 +1,11 @@
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/bin/Debug/netcoreapp2.0/CodeMobile3.Api.deps.json
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/bin/Debug/netcoreapp2.0/CodeMobile3.Api.runtimeconfig.json
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/bin/Debug/netcoreapp2.0/CodeMobile3.Api.runtimeconfig.dev.json
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/bin/Debug/netcoreapp2.0/CodeMobile3.Api.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/bin/Debug/netcoreapp2.0/CodeMobile3.Api.pdb
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.csproj.CoreCompileInputs.cache
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.AssemblyInfoInputs.cache
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.AssemblyInfo.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.pdb
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.csprojResolveAssemblyReference.cache

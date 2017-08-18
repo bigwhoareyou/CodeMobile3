@@ -1,5 +1,9 @@
-﻿<Properties StartupConfiguration="{58B88BBF-0BA1-4375-8A52-2E5097089AAF}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{B820599E-2010-4995-B7AD-3AC377ED5B1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeMobile3.Api/Controllers/CustomersController.cs">
+    <Files>
+      <File FileName="CodeMobile3.Api/Controllers/CustomersController.cs" Line="14" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CodeMobile3.Droid PreferredExecutionTarget="Android.192.168.57.101:5555" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -12,4 +16,5 @@
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.CodeMobile3.iOS>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CodeMobile3.Api PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

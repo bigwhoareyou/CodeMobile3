@@ -141,6 +141,9 @@
     <Compile Include="CustomerListViewModel.cs">
       <DependentUpon>CustomerListPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Models\Customer2.cs" />
+    <Compile Include="Models\Gender.cs" />
+    <Compile Include="ViewModels\CustomerListViewModel2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
