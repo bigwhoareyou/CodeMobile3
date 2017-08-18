@@ -3,8 +3,11 @@
 	xmlns="http://xamarin.com/schemas/2014/forms"
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
 	x:Class="CodeMobile3.MyPage1"
+    xmlns:view="clr-namespace:CodeMobile3"
     Title="Page 1"
     BackgroundColor="Red"
     Icon="airdrop">
+
+    <view:MyView/>
 
 </ContentPage>

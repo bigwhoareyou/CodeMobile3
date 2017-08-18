@@ -1,7 +1,9 @@
-﻿<Properties StartupConfiguration="{B820599E-2010-4995-B7AD-3AC377ED5B1D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodeMobile3.Api/Controllers/CustomersController.cs">
+﻿<Properties StartupConfiguration="{58B88BBF-0BA1-4375-8A52-2E5097089AAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeMobile3/CustomerListViewModel.cs">
     <Files>
-      <File FileName="CodeMobile3.Api/Controllers/CustomersController.cs" Line="14" Column="20" />
+      <File FileName="CodeMobile3/CustomerListPage.xaml" Line="14" Column="29" />
+      <File FileName="CodeMobile3/CustomerListPage.xaml.cs" Line="14" Column="51" />
+      <File FileName="CodeMobile3/CustomerListViewModel.cs" Line="27" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

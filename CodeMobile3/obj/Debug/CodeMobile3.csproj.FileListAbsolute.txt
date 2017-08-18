@@ -44,3 +44,16 @@
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/SQLite-net.xml
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.SignupPage.xaml.g.cs
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.CustomerListPage.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.MyView.xaml.g.cs
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/CodeMobile3.dll.config
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Newtonsoft.Json.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/System.Net.Http.Extensions.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/System.Net.Http.Primitives.dll
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/System.Net.Http.Extensions.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/System.Net.Http.Primitives.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Newtonsoft.Json.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3/obj/Debug/CodeMobile3.csproj.App.config

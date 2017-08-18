@@ -21,9 +21,14 @@ namespace CodeMobile3
             if (isOk)
             {
                 var customer = BindingContext as Customer;
-                int id = Helpers.DbHelper.Current.AddCustomer(customer);
+                //int id = Helpers.DbHelper.Current.AddCustomer(customer);
+                var customerTable = Helpers.Services.MobileServiceClient.GetTable<Customer>();
 
-                await DisplayAlert("Signup", $"Signup Success your ID #{id}", "OK");
+                busyIndicator.IsVisible = true;
+                await customerTable.InsertAsync(customer);
+                busyIndicator.IsVisible = false;
+
+                await DisplayAlert("Signup", $"Signup Success", "OK");
 
                 var np = Parent as NavigationPage;
                 var mp = np.Parent as MasterDetailPage;

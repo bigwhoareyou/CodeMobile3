@@ -2,6 +2,7 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/Plugin.Settings/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_v2/library_project_imports/res</ResolvedResourceDirectory>
@@ -12,6 +13,7 @@
     <ResolvedResourceDirectory>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Settings/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.batteries_v2/library_project_imports/assets</ResolvedAssetDirectory>
@@ -23,6 +25,7 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/Plugin.Settings.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/bond/Projects/vs/CodeMobile3/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>

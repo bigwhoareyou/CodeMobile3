@@ -15,6 +15,7 @@ namespace CodeMobile3.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
+            Microsoft.WindowsAzure.MobileServices.CurrentPlatform.Init();
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 
@@ -22,10 +23,10 @@ namespace CodeMobile3.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
-			var path = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
-			path = System.IO.Path.Combine(path, "..", "databases");
-			if (!System.IO.Directory.Exists(path)) System.IO.Directory.CreateDirectory(path);
-			path = System.IO.Path.Combine(path, "mydb.db3");            		
+            var path = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            path = System.IO.Path.Combine(path, "..", "databases");
+            if (!System.IO.Directory.Exists(path)) System.IO.Directory.CreateDirectory(path);
+            path = System.IO.Path.Combine(path, "mydb.db3");
 
             LoadApplication(new App(path));
         }

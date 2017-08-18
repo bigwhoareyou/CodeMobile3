@@ -9,3 +9,4 @@
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.dll
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.pdb
 /Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/obj/Debug/netcoreapp2.0/CodeMobile3.Api.csprojResolveAssemblyReference.cache
+/Users/bond/Projects/vs/CodeMobile3/CodeMobile3.Api/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib

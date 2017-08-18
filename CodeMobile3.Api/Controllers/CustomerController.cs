@@ -10,12 +10,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CodeMobile3.Api.Controllers
 {
-    [Route("api/[controller]")]
-    public class CustomersController : Controller
+    [Route("tables/[controller]")]
+    public class CustomerController : Controller
     {
         MyDbContext _db;
 
-        public CustomersController(MyDbContext db)
+        public CustomerController(MyDbContext db)
         {
             this._db = db;
         }
@@ -36,7 +36,7 @@ namespace CodeMobile3.Api.Controllers
 
         // POST api/values
         [HttpPost]
-        public Customer Post(Customer value)
+        public Customer Post([FromBody]Customer value)
         {
             _db.Add(value);
             _db.SaveChanges();
@@ -45,7 +45,7 @@ namespace CodeMobile3.Api.Controllers
 
         // PUT api/values/5
         [HttpPut("{id}")]
-        public void Put(int id, Customer value)
+        public void Put(int id, [FromBody]Customer value)
         {
             _db.Update(value);
             _db.SaveChanges();

@@ -23,6 +23,8 @@
             Text="Goto Page 2"
             BackgroundColor="Silver"/>
 
+        
+
     </StackLayout>
     
 </ContentPage>

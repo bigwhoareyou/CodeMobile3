@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using CodeMobile3.Models;
 using Xamarin.Forms;
 
 namespace CodeMobile3

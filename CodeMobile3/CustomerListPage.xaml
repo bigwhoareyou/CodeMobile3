@@ -12,7 +12,8 @@
 
     <ListView
         x:Name="customerList"
-        ItemsSource="{Binding Customers}">
+        ItemsSource="{Binding Customers}"
+        IsPullToRefreshEnabled="true">
 
         <ListView.ItemTemplate>
             <DataTemplate>
